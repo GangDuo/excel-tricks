@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab id="TabBenefit" label="益">
+        <group id="TabBenefit-Batch" label="一括処理">
+          <button id="BtnCreateSheetNameList"
+                  label="ｼｰﾄ名羅列"
+                  imageMso="MoviePlay"
+                  size="large"
+                  onAction="Button_OnAction" />
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
+

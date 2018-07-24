@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tricks", "Tricks.csproj", "{3719184B-E909-43D2-918E-214EA4B8896B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel.Helpers", "lib\Excel.Helpers\Excel.Helpers.csproj", "{98D79ADB-D4D7-4607-90F6-67FA93B2C5E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{3719184B-E909-43D2-918E-214EA4B8896B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3719184B-E909-43D2-918E-214EA4B8896B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3719184B-E909-43D2-918E-214EA4B8896B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D79ADB-D4D7-4607-90F6-67FA93B2C5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D79ADB-D4D7-4607-90F6-67FA93B2C5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D79ADB-D4D7-4607-90F6-67FA93B2C5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D79ADB-D4D7-4607-90F6-67FA93B2C5E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
